@@ -1,6 +1,6 @@
 # Hackerrank-C-Language-Solutions
 
-Difficulty: Easy
+_**Difficulty: Easy**_
 
 1. Playing With Characters
 2. 
