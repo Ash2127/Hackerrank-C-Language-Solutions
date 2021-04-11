@@ -7,4 +7,4 @@ _**Difficulty: Easy**_
 3. Functions in C
 4. Pointers in C
 5. Conditional Statements in C
-6. 
+6. For Loop in C
