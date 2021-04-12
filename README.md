@@ -8,3 +8,4 @@ _**Difficulty: Easy**_
 4. Pointers in C
 5. Conditional Statements in C
 6. For Loop in C
+7. Sum of Digits of a Five Digit Number
