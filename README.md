@@ -9,3 +9,4 @@ _**Difficulty: Easy**_
 5. Conditional Statements in C
 6. For Loop in C
 7. Sum of Digits of a Five Digit Number
+8. Bitwise Operators
